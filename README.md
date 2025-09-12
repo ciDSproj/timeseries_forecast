@@ -23,3 +23,5 @@ The CO2 dataset contains 2284 observations which are atmospheric CO2 collected s
 ## Build the ARIMA model
 -	Applied grid search to identify the best parameters for fitting the model 
 -	Built the model and used it for producing one-step ahead, dynamic, and future forecasts
+
+The visualizations confirmed that the overall forecasts were accurate for both one-step ahead and dynamic forecasts. The future forecasts indicate that the CO2 time series is expected to continue increasing.
