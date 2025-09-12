@@ -1,6 +1,6 @@
 # CO2 Forecasting with Time Series 
 ## Overview
-This analysis is focused on CO2 atmospheric concentrations dataset. It contains data preparation and exploration using visualization and STL decomposition, and building a seasonal ARIMA model used for producing one-step ahead, dynamic, and future forecasts.
+This analysis focuses on CO2 atmospheric concentrations dataset. It contains data preparation and exploration using visualization and STL decomposition, and building a seasonal ARIMA model used for producing one-step ahead, dynamic, and future forecasts.
 
 ## Resources Used
 - Python 3.7
