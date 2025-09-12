@@ -14,12 +14,12 @@ The CO2 dataset contains 2284 observations which are atmospheric CO2 collected s
 - co2: CO2 Concentration ppmv
 
 ## Data Preparation and Exploration
--	resample data using monthly averages
--	handle missing values 
--	visualize and decompose the time series in trend, seasonality, and noise 
--	check stationarity using the Dickey-Fuller test
--	compute and plot the ACF and PACF values
+-	Resample data using monthly averages
+-	Handle missing values 
+-	Visualize and decompose the time series in trend, seasonality, and noise 
+-	Check stationarity using the Dickey-Fuller test
+-	Compute and plot the ACF and PACF values
 
 ## Build the ARIMA model
--	applied grid search to identify the best parameters for fitting the model 
--	built the model and used it for producing one-step ahead, dynamic, and future forecasts
+-	Applied grid search to identify the best parameters for fitting the model 
+-	Built the model and used it for producing one-step ahead, dynamic, and future forecasts
