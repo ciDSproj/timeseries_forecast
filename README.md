@@ -10,8 +10,8 @@ This analysis focuses on CO2 atmospheric concentrations dataset. It contains dat
 
 ## Dataset
 The CO2 dataset contains 2284 observations which are atmospheric CO2 collected samples from March 1958 to December 2001:
-- date: sample date in YYMMDD format
-- co2: CO2 Concentration ppmv
+- **date**: sample date in YYMMDD format
+- **co2**: CO2 Concentration ppmv
 
 ## Data Preparation and Exploration
 -	Resample data using monthly averages
